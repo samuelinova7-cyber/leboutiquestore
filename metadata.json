@@ -1,0 +1,8 @@
+{
+  "name": "Remix Le Boutique - Praia do Francês",
+  "description": "Boutique de moda feminina exclusiva e sofisticada na Praia do Francês, Marechal Deodoro - AL. Looks praia chic, alfaiataria, vestidos e tendências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
